@@ -2,6 +2,21 @@
 
 
 .odds {
-    background-color: lightpink;
+    background-color: hsl(352, 55%, 75%);
     font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#two {
+    color: rgb(31, 31, 187);
+    font-size: 36px;
+}
+
+.chain {
+    font-size: 24px;
+}
+
+#five {
+    background-color: #6dd16d;
+    font-size: 24px;
+    font-weight: bold;
 }
